@@ -1,7 +1,6 @@
 # Hugo Extended Docker Image
 
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://gitlab.com/movative/hugo-extended/-/blob/master/LICENSE)
-[![pipeline status](https://gitlab.com/prvt-ah/hugo-extended/badges/master/pipeline.svg)](https://gitlab.com/prvt-ah/hugo-extended/-/commits/master)
 [![](https://images.microbadger.com/badges/image/movative/hugo-extended.svg)](https://microbadger.com/images/movative/hugo-extended "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/movative/hugo-extended.svg)](https://microbadger.com/images/movative/hugo-extended "Get your own version badge on microbadger.com")
 
