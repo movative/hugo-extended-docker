@@ -22,7 +22,7 @@ Just create the following .gitlab-ci.yml in the hugo folder:
 ```
 image: movative/hugo-extended
 variables:
-	    GIT_SUBMODULE_STRATEGY: recursive
+    GIT_SUBMODULE_STRATEGY: recursive
 test:
     script:
         - hugo
