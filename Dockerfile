@@ -1,5 +1,5 @@
 FROM alpine:latest
-
+LABEL maintainer="38313840+movative@users.noreply.github.com"
 ENV HUGO_VERSION 0.67.0
 
     # Get newest version of hugo.
