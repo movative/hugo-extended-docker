@@ -1,10 +1,11 @@
 # Hugo Extended Docker Image
+<img src="hugo.png" alt="HUGO Icon" align="left" height="80" width="80" vspace="6"/>
 
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/movative/platformio-core-docker/blob/main/LICENSE)
 [![](https://images.microbadger.com/badges/image/movative/hugo-extended.svg)](https://microbadger.com/images/movative/hugo-extended "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/movative/hugo-extended.svg)](https://microbadger.com/images/movative/hugo-extended "Get your own version badge on microbadger.com")
 
-[Hugo](https://gohugo.io/) is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+[Hugo](https://gohugo.io/) is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.<br><br>
 
 ### Continuous Deployment
 This Docker image also comes with:
