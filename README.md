@@ -1,5 +1,5 @@
 # Hugo Extended Docker Image
-<img src="https://github.com/movative/hugo-extended-docker/blob/main/hugo.png" alt="HUGO Icon" align="left" height="80" width="80" vspace="6"/>
+<img src="https://raw.githubusercontent.com/movative/hugo-extended-docker/main/hugo.png" alt="HUGO Icon" align="left" height="80" width="80" vspace="6"/>
 
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/movative/platformio-core-docker/blob/main/LICENSE)
 [![](https://images.microbadger.com/badges/image/movative/hugo-extended.svg)](https://microbadger.com/images/movative/hugo-extended "Get your own image badge on microbadger.com")
