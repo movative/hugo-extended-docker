@@ -1,0 +1,11 @@
+version: '3.9'
+services:
+  hugo-version:
+    build: .
+    container_name: hugo-version
+    image: movative/hugo-extended-docker
+    command: ["version"]
+  hugo:
+    build: .
+    container_name: hugo-help
+    image: movative/hugo-extended-docker
